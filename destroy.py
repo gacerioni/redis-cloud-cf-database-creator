@@ -14,8 +14,8 @@ API_KEY = os.getenv('REDIS_CLOUD_API_KEY', 'hardcoded-api-key')
 API_SECRET_KEY = os.getenv('REDIS_CLOUD_API_SECRET_KEY', 'hardcoded-api-secret-key')
 
 # Get input variables from the environment or default values
-subscription_id = os.getenv('SUBSCRIPTION_ID', '2361672')
-database_id = os.getenv('DATABASE_ID', '12390396')
+subscription_id = os.getenv('SUBSCRIPTION_ID', '2361978')
+database_id = os.getenv('DATABASE_ID', '12391054')
 user_name = os.getenv('USER_NAME', 'bart-via-api')
 role_name = os.getenv('ROLE_NAME', 'bart-via-api')
 
